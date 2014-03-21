@@ -1,6 +1,5 @@
 require 'sinatra'
 require 'net/http'
-require 'pry-debugger'
 
 module ImagesApi
 
